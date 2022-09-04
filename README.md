@@ -31,3 +31,6 @@ The results of this simulation are as follows:
 ![Screenshot (1364)](https://user-images.githubusercontent.com/56737677/188335579-6f31e26d-d506-4456-8a0c-c0f364ecd7ae.png)
 ![Screenshot (1365)](https://user-images.githubusercontent.com/56737677/188335586-2b7ad258-977f-4938-b389-828d8ac6fe9e.png)
 ![Screenshot (1366)](https://user-images.githubusercontent.com/56737677/188335593-33060dcc-61bb-448a-81e5-ff3f131e35ff.png)
+
+
+This simulation is based on the paper "Dynamic models of segregation" by Thomas C. Schelling. The paper can be found here: https://www.tandfonline.com/doi/abs/10.1080/0022250X.1971.9989794
