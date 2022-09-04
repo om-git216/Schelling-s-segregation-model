@@ -19,3 +19,15 @@ This is the simulation run over time.
 
 This simulation is based on the book "An Introduction to the Modelling and Analysis of Compolex systems" which can be found here:
 https://math.libretexts.org/Bookshelves/Scientific_Computing_Simulations_and_Modeling/Book%3A_Introduction_to_the_Modeling_and_Analysis_of_Complex_Systems_(Sayama)/19%3A_AgentBased_Models/19.02%3A_Building_an_Agent-Based_Model
+
+
+A better implementation of the Segregation model can be found in the notebook `Schelling's segregation model ABM.ipynb`. 
+
+The results of this simulation are as follows:
+
+![Screenshot (1361)](https://user-images.githubusercontent.com/56737677/188335488-eb7076e6-a743-40df-ab4d-52746b1d2e67.png)
+![Screenshot (1362)](https://user-images.githubusercontent.com/56737677/188335555-8b1bb20b-7673-4b2b-a201-7b2a0f9b4443.png)
+![Screenshot (1363)](https://user-images.githubusercontent.com/56737677/188335570-dcfd239b-ba8b-47b4-a1bf-78227827ae8c.png)
+![Screenshot (1364)](https://user-images.githubusercontent.com/56737677/188335579-6f31e26d-d506-4456-8a0c-c0f364ecd7ae.png)
+![Screenshot (1365)](https://user-images.githubusercontent.com/56737677/188335586-2b7ad258-977f-4938-b389-828d8ac6fe9e.png)
+![Screenshot (1366)](https://user-images.githubusercontent.com/56737677/188335593-33060dcc-61bb-448a-81e5-ff3f131e35ff.png)
